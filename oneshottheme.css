@@ -1,0 +1,78 @@
+/* This is the actual Oneshot style textboxe CSS styling. */
+
+body
+{
+  font-family: "Terminus (TTF)";
+  /* font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; */
+  /* font-family: "Consolas"; */
+}
+
+.avatar-2e8lTP, clickable-31pE3P{
+  /* margin-left: 95%; */
+}
+
+.message-2CShn3:hover
+{
+  background: url("https://cdn.discordapp.com/attachments/712252493823737947/1040734192096514088/zzzzzzzzzzzzzz.png");
+  background-color: #51435e;
+  border-image: url('https://media.discordapp.net/attachments/712252493823737947/1040696051365052416/zz.png') 10;
+  /* background-color: #2f213c; */
+}
+
+
+.message-2CShn3.groupStart-3Mlgv1 {
+    border-top-width: 10px;
+}
+
+.scrollableContainer-15eg7h
+{
+    /* background: url("https://cdn.discordapp.com/attachments/712252493823737947/1040734192096514088/zzzzzzzzzzzzzz.png"); */
+    /* background-size: 95%; */
+    background-image: none;
+    background-color: #2f213c;
+
+    border: 10px blue inset;
+    
+    border-image: url('https://cdn.discordapp.com/attachments/712252493823737947/1040708627620700231/zzz.png') 10;
+}
+
+.message-2CShn3{
+  /* content: "";
+  clear: both;
+  display: table; */
+  /* font-family: "Terminus (TTF)"; */
+  padding-bottom: 10px;
+
+    background: url("https://cdn.discordapp.com/attachments/712252493823737947/1086651839153442897/image.png");
+    background-size: 95%;
+
+    border: 10px blue inset;
+    
+    border-image: url('https://cdn.discordapp.com/attachments/712252493823737947/1040708627620700231/zzz.png') 10;
+
+    border-width: 0 10px 10px;
+    border-bottom-width: 10px;
+    margin-bottom: -10px;
+}
+
+.theme-dark {
+  /* --background-primary: var(--primary-dark-600); */
+  /* #27222E; */
+  --background-primary: #27222E;
+  /* #231E2A; */
+  /* --background-secondary: var(--primary-dark-630); */
+  --background-secondary: #231E2A;
+  
+  /* --background-secondary-alt: var(--primary-dark-660); */
+  --background-secondary-alt: #292232;
+ 
+  /* --background-tertiary: var(--primary-dark-700); */
+    --background-tertiary: #31273e;
+  /* --background-accent: var(--primary-dark-500); */
+  --background-accent: #1b181f;
+  /* --background-floating: var(--primary-dark-800); */
+  --background-floating: #382c48;
+
+}
+
+/*https://media.discordapp.net/attachments/712252493823737947/1040696051365052416/zz.png*/
